@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm **Aadhityan Thiyagarajah**, a 3rd-year **BICT (Hons) undergraduate** at the **University of Kelaniya, Sri Lanka**, specializing in **Network Technology**.
+🚀 I'm **Aadhityan Thiyagarajah**, a 3rd-year **BICT (Hons) undergraduate** at the **University of Kelaniya** specializing in **Network Technology**.
 <br>
 🌐 Passionate about **Network Engineering, Cybersecurity, Wireless Communication, and IoT** with hands-on experience in building secure technology solutions.
 <br>
