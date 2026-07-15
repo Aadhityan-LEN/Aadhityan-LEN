@@ -5,6 +5,8 @@
 <br>
 🛡️ Active in cybersecurity research and **CTF competitions**, ranked among the **Top 3% globally on TryHackMe (0xA WIZARD Rank)**.
 <br>
+📡 Interested in **Routing & Switching, Network Monitoring, Wireless Networks, Embedded Systems, and IoT Security**.
+
 
 
 ## 🌐 Socials:
