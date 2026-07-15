@@ -1,5 +1,10 @@
 # 💫 About Me:
-Aadhityan Thiyagarajah is a 3rd-year undergraduate at the University of Kelaniya, Sri Lanka, pursuing a BICT (Hons) with a specialization in Network Technology.<br> His coursework spans Network Engineering ,Telecommunications, Cybersecurity, Wireless and Mobile Computing, IoT, and Project Management.<br>Beyond academics, he's deeply immersed in cybersecurity - an active CTF competitor with a Top 3% global ranking on TryHackMe (0xA WIZARD rank) <br>and a member of the UOK ISACA Student Group.
+🚀 I'm **Aadhityan Thiyagarajah**, a 3rd-year **BICT (Hons) undergraduate** at the **University of Kelaniya, Sri Lanka**, specializing in **Network Technology**.
+<br>
+🌐 Passionate about **Network Engineering, Cybersecurity, Wireless Communication, and IoT** with hands-on experience in building secure technology solutions.
+<br>
+🛡️ Active in cybersecurity research and **CTF competitions**, ranked among the **Top 3% globally on TryHackMe (0xA WIZARD Rank)**.
+<br>
 
 
 ## 🌐 Socials:
